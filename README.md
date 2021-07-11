@@ -10,3 +10,7 @@ Reto Master 1 Summer Cloud Grupo II - Acordeon de lo bàsico aprendido.
 
 # Conceptos relevantes en el computo de la nube
 ![Blue and White Grid Minimalist Monotone Project Progress Timeline Infographic](https://user-images.githubusercontent.com/87103586/125177863-efdc2400-e1a4-11eb-84e0-2f672415d420.png)
+
+# Servicios de Azure
+![5](https://user-images.githubusercontent.com/87103586/125212671-af4bdb80-e274-11eb-9cd9-eab576cdf84e.png)
+![6](https://user-images.githubusercontent.com/87103586/125212673-b246cc00-e274-11eb-8ac9-cf2c47fe07f1.png)
